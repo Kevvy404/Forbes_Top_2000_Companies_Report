@@ -25,13 +25,12 @@ This interactive Power BI dashboard analyses the 2025 Forbes Global 2000 compani
 
 ## How To Use
 - **Clone the repository using this command**
-''' bash
+``` bash
 git clone https://github.com/Kevvy404/Forbes_Top_2000_Companies_Report.git
 cd Forbes_Top_2000_Companies_Report
-'''
+```
 
-- **Download Power BI Desktop**
-- [Link to Microsoft Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
+- **Download Power BI Desktop:** [Link to Microsoft Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 - **Open the file named: Forbes_Top_2000_report.pbix**
 
